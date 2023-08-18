@@ -1,1 +1,1 @@
-Measuring the similarity of a given sentence by a TF-IDF approach from 100 sentences in a list. Applying Tokenization, removing stop words, lemmatization, and finally utilizing TF-IDF for returning the most similar sentences. 
+Measuring the similarity of a given sentence by a TF-IDF approach from 100 sentences in a list. Applying tokenization, removing stop words, lemmatization, normalizing, and finally utilizing TF-IDF for returning the most similar sentences. 
